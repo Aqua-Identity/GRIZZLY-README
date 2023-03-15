@@ -3,7 +3,20 @@
 
 # AquaID
 
-Thanks for judging our project! Here are links to all the availible github repos for our project and demo video. @solana-hacks should be added to all of them.
+Thanks for judging our project! 
+
+
+PLEASE READ THIS WRITEUP OF OUR PROJECT:
+https://jelly-pillow-5f8.notion.site/Grizzly-Writeup-AquaID-640dd6e05d064e6b8870339d2291af12
+
+You can view our video here:
+https://www.youtube.com/watch?v=tad4Q2Nr7ew
+
+
+
+
+
+Here are links to all the availible github repos for our project and demo video. @solana-hacks should be added to all of them.
 
 
 
